@@ -24,7 +24,7 @@ export const IndexPage: FC = () => {
           </Link>
         </Section>
         <Section
-          header="Application Launch Data"
+          header="App Launch Data"
           footer="These pages help developer to learn more about current launch information"
         >
           <Link to="/init-data">
